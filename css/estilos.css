@@ -1,0 +1,47 @@
+body {
+  background: #90caf9;
+}
+
+.navbar {
+  margin-bottom: 10px;
+  border-radius: 0;
+  background-color: #42a5f5;
+}
+
+.jumbotron {
+  margin-bottom: 0;
+  background-color: #97fafd;
+}
+
+.navbar-default {
+  border: 0;
+}
+
+.container-fluid {
+  text-align: center;
+}
+
+.menu-principal a {
+  background-color: #42a5f5;
+  margin-top: 5px;
+  width: 120px;
+  color: blue;
+}
+
+.logo {
+  margin-left: 1%;
+}
+
+.contenido-blogmusica {
+  background-color: #FFF;
+  margin: 0;
+  padding-top: 20px;
+}
+
+.listado {
+  margin-top: 10px;
+}
+
+.imagen-articulo {
+  padding-top: 20px;
+}
