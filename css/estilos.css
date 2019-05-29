@@ -49,3 +49,7 @@ body {
 .imagen-articulo {
   padding-top: 20px;
 }
+
+.navbar-nav a:hover {
+  background: white;
+}
